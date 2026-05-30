@@ -12,3 +12,11 @@ I started my journey to gain knowledge with the website osdev.org. It is a beaut
 - [Protected Mode](https://wiki.osdev.org/Protected_Mode)
 	
 I have also watched [Operating Systems Course for Beginners](https://www.youtube.com/watch?v=yK1uBHPdp30) youtube video on freeCodeCamp.org youtube channel. It helped me a lot on understanding the basics about an operating system. The video is 25 hours long which I had already watched previously. The tutor in the video explained it beautifully without making me bored. Blessings to him whoever he was. 
+
+
+
+
+
+## DAY 2 (30 May 2026)
+
+Today I read the first chapter i.e Introduction from the book [PC Assembly Language](https://github.com/pacman128/pcasm) by Paul Carter. It explains the various number systems along with a basic introduction to assembly language. 

@@ -19,4 +19,29 @@ I have also watched [Operating Systems Course for Beginners](https://www.youtube
 
 ## DAY 2 (30 May 2026)
 
-Today I read the first chapter i.e Introduction from the book [PC Assembly Language](https://github.com/pacman128/pcasm) by Paul Carter. It explains the various number systems along with a basic introduction to assembly language. 
+Today I read the first chapter i.e Introduction from the book [PC Assembly Language](https://github.com/pacman128/pcasm) by Paul Carter. It explains the various number systems along with a basic introduction to assembly language.
+
+
+
+
+
+
+
+
+## DAY 3 (1 July 2026)
+
+Today I read the chapter 2, 3 and 4 from the book [PC Assembly Language](https://github.com/pacman128/pcasm) by Paul Carter. It talks about Basic Assembly Language, Bit operations and Subprograms.
+
+
+
+
+
+
+## DAY 4 (7 August 2026)
+
+The topics that i covered are 
+
+- [Bootloader](https://wiki.osdev.org/Bootloader)
+- [Rolling your own Bootloader](https://wiki.osdev.org/Rolling_Your_Own_Bootloader)
+- [A20 Line](https://wiki.osdev.org/A20_Line)
+- [GDT Tutorial](https://wiki.osdev.org/GDT Tutorial) 

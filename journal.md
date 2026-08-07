@@ -44,4 +44,4 @@ The topics that i covered are
 - [Bootloader](https://wiki.osdev.org/Bootloader)
 - [Rolling your own Bootloader](https://wiki.osdev.org/Rolling_Your_Own_Bootloader)
 - [A20 Line](https://wiki.osdev.org/A20_Line)
-- [GDT Tutorial](https://wiki.osdev.org/GDT Tutorial) 
+- [GDT Tutorial](https://wiki.osdev.org/GDT_Tutorial) 
